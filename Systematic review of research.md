@@ -76,22 +76,28 @@ The review identified four main areas where AI is applied in higher education.
 | Adaptive Systems & Personalisation | Personalised learning |
 
 1) Profiling and Prediction 😊
+   
 AI systems analyse student data to predict Admission success, Risk of dropout, Academic performance, Student engagement For example, machine learning models can predict student dropout with relatively high accuracy. These systems are often used as early warning systems to identify at-risk students and provide support.
 This area is closely related to learning analytics.
 
-2) Intelligent Tutoring Systems (ITS) 😃
+3) Intelligent Tutoring Systems (ITS) 😃
+   
 Intelligent Tutoring Systems are AI systems that provide instruction and feedback similar to a human tutor.
 Functions of ITS include Teaching course content, Diagnosing student errors, Providing automated feedback, Recommending learning materials, Supporting collaborative learning. Research shows that ITS are more effective than traditional instruction, but less effective than human tutoring. This can be summarised as: Human tutor > Intelligent Tutoring System > Traditional instruction
 
-3) Assessment and Evaluation 😁
+5) Assessment and Evaluation 😁
+   
 AI is also widely used in assessment and evaluation.
 Examples include: Automated Essay Scoring (AES), Automated grading systems, Plagiarism detection, Learning analytics dashboards, Sentiment analysis of student feedback. Some automated essay scoring systems show very high agreement with human grading (about 94–98%).
 However, there are still some problems: Difficult to use in small classes
 Quality of feedback is sometimes limited Systems require a large amount of training data.
 
-4) Adaptive Systems and Personalisation 😳
+7) Adaptive Systems and Personalisation 😳
+   
 AI can provide personalised learning by adapting learning content and learning paths to individual students. Examples include: Personalised learning paths, Recommending learning materials, Monitoring student progress, Concept map–based knowledge systems. This area is related to personalised learning and adaptive learning systems.
+
 ## 4️⃣   Critical Issues 🌴
+
 One of the most important findings of this study is that there are several major problems in current AI in education research.
 - Problem 1. Lack of pedagogical perspective
 Most research focuses on technology rather than teaching and learning.
@@ -105,8 +111,10 @@ These are very important issues, but they are rarely discussed in the research.
 Most AI in education research is conducted by computer scientists rather than educators. This is why the title of the article is: “Where are the educators?” The authors argue that educators must become more involved in AI in education research.
 
 ## 5️⃣   Educational Implications 🌱
+
 - AI will support teachers rather than replace them. AI can help with grading, feedback, and analysing student learning data. AI makes personalised learning possible for individual students. Learning analytics and AI will become important for future educational decision-making.
 Educators must actively participate in AI research and development.
 
 ## 6️⃣   Conclusion 🌷
+
 - Research on AI in higher education is rapidly increasing. AI is mainly used for prediction, assessment, personalisation, and intelligent tutoring systems. However, most research is technology-focused rather than education-focused. Pedagogical perspectives and ethical issues are often neglected. The success of AI in higher education depends on integrating AI with pedagogy and ethical considerations.
