@@ -1,4 +1,1 @@
-# ksj26
-![header](header.png)
-
-# ksj26
+<img src="header.png" width="100%">
