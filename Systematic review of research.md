@@ -80,19 +80,19 @@ The review identified four main areas where AI is applied in higher education.
 AI systems analyse student data to predict Admission success, Risk of dropout, Academic performance, Student engagement For example, machine learning models can predict student dropout with relatively high accuracy. These systems are often used as early warning systems to identify at-risk students and provide support.
 This area is closely related to learning analytics.
 
-3) Intelligent Tutoring Systems (ITS) 😃
+2) Intelligent Tutoring Systems (ITS) 😃
    
 Intelligent Tutoring Systems are AI systems that provide instruction and feedback similar to a human tutor.
 Functions of ITS include Teaching course content, Diagnosing student errors, Providing automated feedback, Recommending learning materials, Supporting collaborative learning. Research shows that ITS are more effective than traditional instruction, but less effective than human tutoring. This can be summarised as: Human tutor > Intelligent Tutoring System > Traditional instruction
 
-5) Assessment and Evaluation 😁
+3) Assessment and Evaluation 😁
    
 AI is also widely used in assessment and evaluation.
 Examples include: Automated Essay Scoring (AES), Automated grading systems, Plagiarism detection, Learning analytics dashboards, Sentiment analysis of student feedback. Some automated essay scoring systems show very high agreement with human grading (about 94–98%).
 However, there are still some problems: Difficult to use in small classes
 Quality of feedback is sometimes limited Systems require a large amount of training data.
 
-7) Adaptive Systems and Personalisation 😳
+4) Adaptive Systems and Personalisation 😳
    
 AI can provide personalised learning by adapting learning content and learning paths to individual students. Examples include: Personalised learning paths, Recommending learning materials, Monitoring student progress, Concept map–based knowledge systems. This area is related to personalised learning and adaptive learning systems.
 
