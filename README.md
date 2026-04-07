@@ -1,3 +1,3 @@
 # ksj26
 
-![header](cherry.jpg)
+![header](./cherry.jpg)
