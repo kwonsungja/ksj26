@@ -1,3 +1,1 @@
-# ksj26
-
-![header](./cherry.jpg)
+![header](https://raw.githubusercontent.com/ksj26/ksj26/main/cherry.jpg)
