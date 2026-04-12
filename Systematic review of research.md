@@ -86,7 +86,7 @@ AI applications support the entire student life-cycle by addressing both institu
  - Student models and academic achievement: By analysing behavioural process data, these applications predict student engagement and academic motivation. This creates an intelligent predictive system that enables instructors to automatically identify low-engaged students and make a proactive intervention.
 
 2) Intelligent Tutoring Systems (ITS) 😃
- : ITS utilize learner models and algorithms to simulate one-to-one personal tutoring, outperforming traditional classroom instruction by providing direct pedagogical support.
+   : ITS utilize learner models and algorithms to simulate one-to-one personal tutoring, outperforming traditional classroom instruction by providing direct pedagogical support.
 
  - Teaching course content: Often using conversational agents, ITS go beyond delivering information to provide cognitive scaffolding and help students' self-regulatory processes.
  
