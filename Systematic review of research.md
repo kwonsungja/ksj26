@@ -75,17 +75,33 @@ The review identified four main areas where AI is applied in higher education.
 | Assessment & Evaluation | Automated grading and feedback |
 | Adaptive Systems & Personalisation | Personalised learning |
 
+AI applications support the entire student life-cycle by addressing both institutional and administrative services and academic support services. Two main areas demonstrate fundamentally distinct purposes:
+
 1) Profiling and Prediction 😊
-   
-AI systems analyse student data to predict Admission success, Risk of dropout, Academic performance, Student engagement For example, machine learning models can predict student dropout with relatively high accuracy. These systems are often used as early warning systems to identify at-risk students and provide support.
-This area is closely related to learning analytics.
+ :This area utilizes machine learning to classify patterns and forecast future behavior.
+ 
+ - Admission decisions and course scheduling: Predictive models use artificial neural networks (ANN) and support vector machines (SVM) to predict admission decisions and course selection     behaviour at a high level of accuracy. This relieves administrative staff, supports management decisions, and improves large-scale institutional efficiency.
+ - Drop-out and retention: By analysing students' demographic, academic, financial, and non-cognitive data, these applications predict general undergraduate attrition and identify at-risk    students in their first year. This creates an early warning system that enables institutions to detect potential dropouts with high accuracy and provide timely support or interventions
 
-2) Intelligent Tutoring Systems (ITS) 😃
-   
-Intelligent Tutoring Systems are AI systems that provide instruction and feedback similar to a human tutor.
-Functions of ITS include Teaching course content, Diagnosing student errors, Providing automated feedback, Recommending learning materials, Supporting collaborative learning. Research shows that ITS are more effective than traditional instruction, but less effective than human tutoring. This can be summarised as: Human tutor > Intelligent Tutoring System > Traditional instruction
+ - Student models and academic achievement: By analysing behavioural process data, these applications predict student engagement and academic motivation. This creates an intelligent          predictive system that enables instructors to automatically identify low-engaged students and make a proactive intervention.
 
-3) Assessment and Evaluation 😁
+
+3) Intelligent Tutoring Systems (ITS) 😃
+ : ITS utilize learner models and algorithms to simulate one-to-one personal tutoring, outperforming traditional classroom instruction by providing direct pedagogical support.
+
+ - Teaching course content: Often using conversational agents, ITS go beyond delivering information to provide cognitive scaffolding and help students' self-regulatory processes.
+ 
+ - Diagnosing knowledge gaps and providing feedback: The system monitors student actions and dialogues to detect difficulties, achieving human-like tutoring by providing immediate,
+   adaptive feedback and new hints.
+   
+ - Curating learning materials: Acting as an intelligent assistant, it generates a profile to provide specific recommendations and adapt personalised courses of action to the individual
+   learner.
+
+ - Facilitating collaboration: ITS support online collaborative discussions and writing by generating automatic questions and feedback, guiding students through social interaction.
+
+
+
+4) Assessment and Evaluation 😁
    
 AI is also widely used in assessment and evaluation.
 Examples include: Automated Essay Scoring (AES), Automated grading systems, Plagiarism detection, Learning analytics dashboards, Sentiment analysis of student feedback. Some automated essay scoring systems show very high agreement with human grading (about 94–98%).
