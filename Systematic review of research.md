@@ -9,7 +9,7 @@
 some functions of teachers, tutors, or learning systems.
 
 ## 2️⃣   Method 🌹
-1) Data collection process
+1) Data collection process 📕
 
 | Category | Content |
 |----------|---------|
@@ -19,7 +19,7 @@ some functions of teachers, tutors, or learning systems.
 | After screening | 332 articles |
 | Final articles included | 146 articles |
 
-2) Inclusion Criteria
+2) Inclusion Criteria 📗
 
 | Inclusion Criteria | Description |
 |--------------------|-------------|
@@ -28,7 +28,7 @@ some functions of teachers, tutors, or learning systems.
 | Research focus | AI applications in higher education |
 | Research type | Empirical primary research |
 
-3) Analysis Framework
+3) Analysis Framework 📘
 
 | Analysis Category | Description |
 |-------------------|-------------|
@@ -42,7 +42,7 @@ some functions of teachers, tutors, or learning systems.
 
 ## 3️⃣   Results 🌿
 - Research disciplines and research methods
-1) Research disciplines
+1) Research disciplines 🎯  
    Most AI in education research was conducted not by education      
    researchers but by computer science researchers.
    
@@ -54,7 +54,7 @@ some functions of teachers, tutors, or learning systems.
 
 → This shows that very few studies were conducted by education specialists.
 
-2) Research methods
+2) Research methods 🎨
 
 | Method | Percentage |
 |:------:|:----------:|
