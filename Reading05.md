@@ -69,14 +69,6 @@ In education, AI can simulate roles of teachers or tutors.
 
 - Four major areas of AI applications
 The review identified four main areas where AI is applied in higher education.
-
-| AI Application Area | Description |
-|:-------------------:|:-----------:|
-| Profiling & Prediction | Predicting student performance and dropout |
-| Intelligent Tutoring Systems | AI tutoring systems |
-| Assessment & Evaluation | Automated grading and feedback |
-| Adaptive Systems & Personalisation | Personalised learning |
-
 AI applications support the entire student life-cycle by addressing both institutional and administrative services and academic support services. Two main areas demonstrate fundamentally distinct purposes:
 
 1) Profiling and Prediction 😊
